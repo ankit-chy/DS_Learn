@@ -6,3 +6,9 @@ Keep Learning and hustling
 
 #Day3/n - 21st May
     Have tracker and learning plan/schedule on place now
+
+Restartde on jan 3rd. 
+Bit of recap for 45 minutes
+
+So Day2/n i.e; jan 4th 
+Target is 60 minutes after office.
