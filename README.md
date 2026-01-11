@@ -12,3 +12,5 @@ Bit of recap for 45 minutes
 
 So Day2/n i.e; jan 4th 
 Target is 60 minutes after office.
+
+Updating readme 
