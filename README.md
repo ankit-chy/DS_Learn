@@ -13,4 +13,8 @@ Bit of recap for 45 minutes
 So Day2/n i.e; jan 4th 
 Target is 60 minutes after office.
 
-Updating readme 
+# Trial 2 "75 Hard Challenge" : Start Date : 15th January 2026
+
+# Day 1/75
+# Target:  Section 3 : Python Refresher 19 lessons , 137 minutes = 2 hr 17 minutes
+# Actual: 
