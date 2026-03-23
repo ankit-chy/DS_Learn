@@ -54,3 +54,25 @@ print("Tell your favourite fruit!")
 fav_fruit = str(input())
 
 print(f"Wow! I also like {fav_fruit}.")
+
+# Write a program that:
+
+# Takes two numbers as input from the user.
+
+# Prints their:
+
+# Sum
+# Difference
+# Product
+# Quotient
+
+print("Input number 1 : ")
+num1 = int(input())
+
+print("Input number 21 : ")
+num2 = int(input())
+
+print(f"Sum of {num1} and {num2} : ", num1+num2 )
+print(f"Difference of {num1} and {num2} : ", num1-num2 )
+print(f"Product of {num1} and {num2} : ", num1*num2 )
+print(f"Quotient of {num1} and {num2} : ", num1/num2 )
