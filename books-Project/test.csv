@@ -1,0 +1,31 @@
+Issue Key,Issue summary,Hours,Work date,Activity Name,Issue Type,Issue Status,Epic Link,Feature Link
+ML-8799,26.13 Release Testing,1,2026-3-2 00:00,Lifion 26.13,Task,DONE,"Knowledge Center -Translations, Multi-lingual Support & General updates based on Pilot feedback",ML-8501
+ML-8796,26.13 Release Testing,3,2026-3-2 00:00,Lifion 26.13,Task,DONE,Payroll Reconciliation - Pilot/MOTM,ML-8343
+ML-8856,Upload Flow Test Cases - Addition,4,2026-3-2 00:00,1NAS AI | ML,Task,DONE,"Knowledge Center -Translations, Multi-lingual Support & General updates based on Pilot feedback",ML-8501
+ML-8796,26.13 Release Testing,3,2026-3-3 00:00,Lifion 26.13,Task,DONE,Payroll Reconciliation - Pilot/MOTM,ML-8343
+ML-8799,26.13 Release Testing,1,2026-3-3 00:00,Lifion 26.13,Task,DONE,"Knowledge Center -Translations, Multi-lingual Support & General updates based on Pilot feedback",ML-8501
+ML-8856,Upload Flow Test Cases - Addition,4,2026-3-3 00:00,1NAS AI | ML,Task,DONE,"Knowledge Center -Translations, Multi-lingual Support & General updates based on Pilot feedback",ML-8501
+ML-8969,[Update FIX] 26.19 sandbox - Automation,4,2026-3-4 00:00,1NAS AI | ML,Task,IN PROGRESS,"Knowledge Center -Translations, Multi-lingual Support & General updates based on Pilot feedback",ML-8501
+ML-8966,26.13 Autopay Test data setup/ Prep testing,4,2026-3-4 00:00,1NAS AI | ML,Task,DONE,Payroll Reconciliation - Q3 Major Scope,ML-8751
+ML-8969,[Update FIX] 26.19 sandbox - Automation,4,2026-3-5 00:00,1NAS AI | ML,Task,IN PROGRESS,"Knowledge Center -Translations, Multi-lingual Support & General updates based on Pilot feedback",ML-8501
+ML-8966,26.13 Autopay Test data setup/ Prep testing,4,2026-3-5 00:00,1NAS AI | ML,Task,DONE,Payroll Reconciliation - Q3 Major Scope,ML-8751
+ML-8966,26.13 Autopay Test data setup/ Prep testing,4,2026-3-6 00:00,1NAS AI | ML,Task,DONE,Payroll Reconciliation - Q3 Major Scope,ML-8751
+ML-8969,[Update FIX] 26.19 sandbox - Automation,4,2026-3-6 00:00,1NAS AI | ML,Task,IN PROGRESS,"Knowledge Center -Translations, Multi-lingual Support & General updates based on Pilot feedback",ML-8501
+ML-8969,[Update FIX] 26.19 sandbox - Automation,4,2026-3-9 00:00,1NAS AI | ML,Task,IN PROGRESS,"Knowledge Center -Translations, Multi-lingual Support & General updates based on Pilot feedback",ML-8501
+ML-8966,26.13 Autopay Test data setup/ Prep testing,4,2026-3-9 00:00,1NAS AI | ML,Task,DONE,Payroll Reconciliation - Q3 Major Scope,ML-8751
+ML-8966,26.13 Autopay Test data setup/ Prep testing,4,2026-3-10 00:00,1NAS AI | ML,Task,DONE,Payroll Reconciliation - Q3 Major Scope,ML-8751
+ML-8969,[Update FIX] 26.19 sandbox - Automation,4,2026-3-10 00:00,1NAS AI | ML,Task,IN PROGRESS,"Knowledge Center -Translations, Multi-lingual Support & General updates based on Pilot feedback",ML-8501
+ML-8969,[Update FIX] 26.19 sandbox - Automation,4,2026-3-11 00:00,1NAS AI | ML,Task,IN PROGRESS,"Knowledge Center -Translations, Multi-lingual Support & General updates based on Pilot feedback",ML-8501
+ML-8966,26.13 Autopay Test data setup/ Prep testing,4,2026-3-11 00:00,1NAS AI | ML,Task,DONE,Payroll Reconciliation - Q3 Major Scope,ML-8751
+NASNPTOUT-14,NAS FY26 Admin Out Of Office Time,8,2026-3-12 00:00,NAS Non Project Time - Out of Office,Epic,IN PROGRESS,,
+NASNPTOUT-14,NAS FY26 Admin Out Of Office Time,8,2026-3-13 00:00,NAS Non Project Time - Out of Office,Epic,IN PROGRESS,,
+ML-8969,[Update FIX] 26.19 sandbox - Automation,8,2026-3-16 00:00,1NAS AI | ML,Task,IN PROGRESS,"Knowledge Center -Translations, Multi-lingual Support & General updates based on Pilot feedback",ML-8501
+ML-8969,[Update FIX] 26.19 sandbox - Automation,8,2026-3-17 00:00,1NAS AI | ML,Task,IN PROGRESS,"Knowledge Center -Translations, Multi-lingual Support & General updates based on Pilot feedback",ML-8501
+ML-8969,[Update FIX] 26.19 sandbox - Automation,8,2026-3-18 00:00,1NAS AI | ML,Task,IN PROGRESS,"Knowledge Center -Translations, Multi-lingual Support & General updates based on Pilot feedback",ML-8501
+ML-8969,[Update FIX] 26.19 sandbox - Automation,8,2026-3-20 00:00,1NAS AI | ML,Task,IN PROGRESS,"Knowledge Center -Translations, Multi-lingual Support & General updates based on Pilot feedback",ML-8501
+ML-8938,Accessibility Baseline Testing (Reconciliation),4,2026-3-23 00:00,1NAS AI | ML,Task,IN PROGRESS,Q3 FY26 NAS Accessibility: Remediation & Automated Testing Tools (AI | ML),ML-8434
+ML-8969,[Update FIX] 26.19 sandbox - Automation,4,2026-3-23 00:00,1NAS AI | ML,Task,IN PROGRESS,"Knowledge Center -Translations, Multi-lingual Support & General updates based on Pilot feedback",ML-8501
+ML-8969,[Update FIX] 26.19 sandbox - Automation,4,2026-3-24 00:00,1NAS AI | ML,Task,IN PROGRESS,"Knowledge Center -Translations, Multi-lingual Support & General updates based on Pilot feedback",ML-8501
+ML-8938,Accessibility Baseline Testing (Reconciliation),4,2026-3-24 00:00,1NAS AI | ML,Task,IN PROGRESS,Q3 FY26 NAS Accessibility: Remediation & Automated Testing Tools (AI | ML),ML-8434
+ML-8938,Accessibility Baseline Testing (Reconciliation),6,2026-3-25 00:00,1NAS AI | ML,Task,IN PROGRESS,Q3 FY26 NAS Accessibility: Remediation & Automated Testing Tools (AI | ML),ML-8434
+ML-8969,[Update FIX] 26.19 sandbox - Automation,2,2026-3-25 00:00,1NAS AI | ML,Task,IN PROGRESS,"Knowledge Center -Translations, Multi-lingual Support & General updates based on Pilot feedback",ML-8501
